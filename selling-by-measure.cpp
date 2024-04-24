@@ -1,4 +1,4 @@
-//1211201118 林優花
+
 #include <iostream>
 #include "assignment5.h"
 #include <string>
